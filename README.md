@@ -1,3 +1,14 @@
+# Fork Stress test
+
+Stress test GPU bake animation vs Unity Animation (without LOD).
+
+On low end android ($200).
+GPU bake give ~2.25x performance compare to Animation (Take consideration with GPU bounded and CPU bound)
+
+GPU Baked: 300 anim for 30 FPS
+
+Unity Animation: ~100 for 30 FPS
+
 # Overview
 
 Simple but very fast GPU vertex shader based animation system for Unity.Entities

@@ -29,8 +29,8 @@ namespace Unity.GPUAnimation
 				Lod2Mesh = renderer.sharedMesh,
 				Lod3Mesh = renderer.sharedMesh,
 				Lod1Distance = 0,
-				Lod2Distance = 100,
-				Lod3Distance = 10000,
+				Lod2Distance = 1,
+				Lod3Distance = 2,
 			};
 
 			//@TODO: Perform validation that the shader supports GPU Skinning mode

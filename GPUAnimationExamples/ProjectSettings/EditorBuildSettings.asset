@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/BootScene.unity
+    guid: 689f47cecc7a8bc4c9b9df4f18f0cc33
+  - enabled: 1
+    path: Assets/2. Grid Spawning.unity
+    guid: 655b4a2a7d7df4b6aab6f490d2a3f47f
+  - enabled: 1
+    path: Assets/1. Walk Cycle.unity
+    guid: f0aa5ca93f98a42c7b79dd1b224a6005
   m_configObjects: {}
